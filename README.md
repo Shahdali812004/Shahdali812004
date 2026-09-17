@@ -147,39 +147,6 @@ A REST API for sentiment analysis with:
 
 ---
 
-## 🔬 How I Approach AI Engineering
-
-I don't want to stop at:
-
-**"The model works."**
-
-I'm interested in the complete system:
-
-```text
-Data
-  ↓
-Model / LLM
-  ↓
-Fine-tuning or Prompting
-  ↓
-Evaluation
-  ↓
-Optimization
-  ↓
-Inference
-  ↓
-API
-  ↓
-Application
-  ↓
-Testing & Monitoring
-```
-
-My projects are increasingly focused on the engineering decisions that make
-AI systems **efficient, reliable, and usable in real applications**.
-
----
-
 ## 🎓 Background
 
 **B.Sc. Computer Science**
@@ -207,51 +174,6 @@ Intensive training in:
 
 ---
 
-## 📈 Currently Learning & Building
-
-### LLM Engineering
-
-* Fine-tuning & parameter-efficient adaptation
-* LLM evaluation
-* Structured generation
-* Efficient inference
-* Open-source LLM deployment
-
-### RAG
-
-* Retrieval strategies
-* Embeddings
-* Chunking
-* Context construction
-* RAG evaluation
-
-### Agentic AI
-
-* Tool calling
-* Agent memory
-* Multi-agent architectures
-* Workflow automation
-* Observability
-
-### AI Engineering
-
-* Production APIs
-* Deployment
-* Monitoring
-* Scalability
-* Performance optimization
-
----
-
-## 💡 What I'm Interested In
-
-I'm particularly interested in opportunities involving:
-
-**AI Engineering · LLM Engineering · Generative AI · RAG · Agentic AI**
-
-I'm looking for opportunities where I can work on real AI systems, learn from experienced engineers, and contribute to products that use AI beyond simple experimentation.
-
----
 
 ## 📫 Let's Connect
 
@@ -260,14 +182,3 @@ I'm looking for opportunities where I can work on real AI systems, learn from ex
 
 📧 **[shahdabdelmaqsoud81@gmail.com](mailto:shahdabdelmaqsoud81@gmail.com)**
 
----
-
-### ⚡ A little about how I learn
-
-I like to understand **why** something works, not just how to implement it.
-
-That usually means going from:
-
-**concept → experiment → benchmark → optimize → build → deploy**
-
-and learning from what breaks along the way.
